@@ -54,14 +54,4 @@ public class ValidateVerificationCodeService(ILogger<ValidateVerificationCodeSer
         return null!;
 
     }
-
-    public Task<bool> ValidateCodeAsync(string userEmail, ValidateRequest validateRequest)
-    {
-        throw new NotImplementedException();
-    }
-
-    public void Validate(string userEmail, string correctCode)
-    {
-        throw new NotImplementedException();
-    }
 }
