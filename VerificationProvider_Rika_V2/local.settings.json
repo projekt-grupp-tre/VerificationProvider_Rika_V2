@@ -7,6 +7,7 @@
     "ServiceBusConnection": "Endpoint=sb://sb-emailprovider-v2.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=sBIcy5Zaw85JUZSKVh07clpqUEGvjXDoh+ASbFhN8eg=",
     "VerificationDatabase": "Server=tcp:verification-database.database.windows.net,1433;Initial Catalog=verification_database;Persist Security Info=False;User ID=SqlAdmin;Password=Bytmig123!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
     "Verify_FunctionKey": "",
+    
 
     "QueueName": "verification_request",
 
